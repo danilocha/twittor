@@ -8,7 +8,7 @@ const APP_SHELL = [
   //   "/",
   "index.html",
   "css/style.css",
-  "/img/favicon.ico",
+  "img/favicon.ico",
   "img/avatars/spiderman.jpg",
   "img/avatars/hulk.jpg",
   "img/avatars/ironman.jpg",
