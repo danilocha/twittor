@@ -56,7 +56,6 @@ self.addEventListener("fetch", (e) => {
         return actualizaCacheDinamico(DYNAMIC_CACHE, e.request, newRes);
       });
     }
-    console.log(res);
   });
   e.respondWith(respuesta);
 });
